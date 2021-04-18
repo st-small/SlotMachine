@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "gfx-seven-reel.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
